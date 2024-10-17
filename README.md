@@ -1,4 +1,5 @@
-A continuation/update of Fantasy Slave Trainer by Onerglossi
+A continuation/update of Fantasy Slave Trainer by Onerglossi.
+
 This project is focused on refining/updating the base game.
 
 Project goals:
